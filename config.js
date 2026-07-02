@@ -26,8 +26,8 @@ const config = {
 
   // ─── WhatsApp Channel Links ──────────────────
   channels: {
-  channel1:'https://whatsapp.com/channel/0029Vb7dRzL002SzaCFGoW1x',
-  GROUP:'https://chat.whatsapp.com/I1XhShKcOJm6FzSOBfw7zB',
+  channel1: 'https://whatsapp.com/channel/0029Vb7dRzL002SzaCFGoW1x',
+  GROUP: 'https://chat.whatsapp.com/I1XhShKcOJm6FzSOBfw7zB',
 },
 
   // ─── Pairing Code Settings ───────────────────
