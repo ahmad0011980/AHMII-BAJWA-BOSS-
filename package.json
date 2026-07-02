@@ -1,7 +1,7 @@
 {
-  "name": "AHMII BAJWA BOSS-md-bot",
+  "name": "ahmii-bajwa-boss-md-bot",
   "version": "1.0.0",
-  "description": " AHMII BAJWA BOSS MD - PROFESSIONAL MD BOT MADE BY SHEHRYAR & ZAIN",
+  "description": "AHMII BAJWA BOSS MD - PROFESSIONAL MD BOT MADE BY SHEHRYAR & ZAIN",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -21,6 +21,6 @@
     "tmp": "^0.2.3"
   },
   "legacy-peer-deps": true,
-  "author": " AHMII BAJWA BOSS",
+  "author": "AHMII BAJWA BOSS",
   "license": "MIT"
 }
